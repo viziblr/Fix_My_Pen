@@ -1,0 +1,8 @@
+D:\github\FixMyPen\FixMyPen\bin\Debug\FixMyPen.exe
+D:\github\FixMyPen\FixMyPen\bin\Debug\FixMyPen.pdb
+D:\github\FixMyPen\FixMyPen\obj\x86\Debug\FixMyPen.csprojResolveAssemblyReference.cache
+D:\github\FixMyPen\FixMyPen\obj\x86\Debug\PenFix.PenFixForm.resources
+D:\github\FixMyPen\FixMyPen\obj\x86\Debug\FixMyPen.Properties.Resources.resources
+D:\github\FixMyPen\FixMyPen\obj\x86\Debug\FixMyPen.csproj.GenerateResource.Cache
+D:\github\FixMyPen\FixMyPen\obj\x86\Debug\FixMyPen.exe
+D:\github\FixMyPen\FixMyPen\obj\x86\Debug\FixMyPen.pdb
