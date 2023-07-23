@@ -1,8 +1,8 @@
 # Viziblr Fix My Pen tool
 
 ## Important
-- This tool is obsolete and really only worked with Windows 7.
-- There's no need to use this tool any more with drivers that have been getting released for years.
+- This tool is **OBSOLETE** and only worked with Windows 7.
+- There's no need to use this tool any more with modern tablet drivers.
 
 ## Basic information
 - **[Download](https://github.com/saveenr/Fix_My_Pen/releases)** it now.
